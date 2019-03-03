@@ -35,3 +35,7 @@
 .si {
    float: left;
 }
+
+th {
+   padding: 15px;
+}
