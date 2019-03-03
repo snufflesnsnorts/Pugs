@@ -40,14 +40,8 @@ th {
    border-collapse: collapse;
 }
 
-.front {
+.front, .side {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-
-.side {
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
 }
