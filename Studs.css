@@ -30,12 +30,10 @@
 
 .fr {
    float: right;
+   padding-right: 15px;
 }
 
 .si {
    float: left;
-}
-
-th {
-   padding: 15px;
+   padding-left: 15px;
 }
