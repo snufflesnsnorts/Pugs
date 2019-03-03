@@ -28,6 +28,10 @@
   color: white;
 }
 
-tr {
-   align: center;
+.fr {
+   float: left;
+}
+
+.si {
+   float: left;
 }
