@@ -27,3 +27,19 @@
   background-color: #4CAF50;
   color: white;
 }
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+}
+
+.PuppiesTable {
+   
+}
